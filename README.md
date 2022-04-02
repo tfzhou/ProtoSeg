@@ -24,6 +24,10 @@ Prevalent semantic segmentation solutions, despite their different network desig
 
 ## Relevant Projects
 
-* Exploring Cross-Image Pixel Contrast for Semantic Segmentation (ICCV 2021 Oral) [[arXiv](https://arxiv.org/abs/2101.11939)][[code](https://github.com/tfzhou/ContrastiveSeg)]
-* Deep Hierarchical Semantic Segmentation (CVPR 2022) [[arXiv](https://arxiv.org/abs/2203.14335)][[code](https://github.com/0liliulei/HieraSeg)]
+> Please also see our works [1] for a novel training paradigm with a **cross-image, pixel-to-pixel contrative loss**, 
+> and [2] for a novel **hierarchy-aware segmentation learning scheme** for structured scene parsing.
+
+[1] Exploring Cross-Image Pixel Contrast for Semantic Segmentation - ICCV 2021 (Oral) [[arXiv](https://arxiv.org/abs/2101.11939)][[code](https://github.com/tfzhou/ContrastiveSeg)]
+
+[2] Deep Hierarchical Semantic Segmentation - CVPR 2022 [[arXiv](https://arxiv.org/abs/2203.14335)][[code](https://github.com/0liliulei/HieraSeg)]
 
