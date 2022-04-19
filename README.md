@@ -1,5 +1,7 @@
 # Rethinking Semantic Segmentation: A Prototype View
 
+![](figures/framework.png)
+
 > Rethinking Semantic Segmentation: A Prototype View,            
 > [Tianfei Zhou](https://www.tfzhou.com/), [Wenguan Wang](https://sites.google.com/view/wenguanwang/), [Ender Konukoglu](https://scholar.google.com/citations?user=OeEMrhQAAAAJ&hl=en) and [Luc Van Gool](https://scholar.google.com/citations?user=TwMib_QAAAAJ&hl=en) <br>
 > *CVPR 2022 (Oral) ([arXiv 2203.15102](https://arxiv.org/abs/2203.15102))*
